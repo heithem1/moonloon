@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /apks/
+Disallow: /catalog.json
