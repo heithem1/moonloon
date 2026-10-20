@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · Flash Connect 1.2.1 · 2026-10-20",
+  "revision": "moonloon · sélection 2.5.2 · 2026-10-20",
   "apps": [
     {
       "id": "client",
       "name": "moonloon",
-      "description": "Icône Gear affichée en entier dans le catalogue, avec le D doré sur fond sombre, même si une ancienne icône est installée.",
+      "description": "Icône Connect intégrée. Téléchargements avec reprise et nouvelles tentatives après interruption de connexion.",
       "category": "Outils",
       "letter": "M",
       "package_name": "com.flashlab.store",
-      "version_code": 29,
-      "version": "2.5.1",
+      "version_code": 30,
+      "version": "2.5.2",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/client_29_56b397ffd060.apk",
-      "sha256": "56b397ffd060d668f7e1334264b9aca8e23aaebacb57cbad31e4c71e91667687",
+      "download_url": "https://heithem1.github.io/moonloon/client_30_ed977b2e2e15.apk",
+      "sha256": "ed977b2e2e1565d535250efa57928d118a445fc2c477207bba304e01f827e54d",
       "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-      "size_bytes": 1263394,
+      "size_bytes": 1279771,
       "tested_on_coolray": false
     },
     {
@@ -148,18 +148,18 @@
   "store_update": {
     "id": "client",
     "name": "moonloon",
-    "description": "Icône Gear affichée en entier dans le catalogue, avec le D doré sur fond sombre, même si une ancienne icône est installée.",
+    "description": "Icône Connect intégrée. Téléchargements avec reprise et nouvelles tentatives après interruption de connexion.",
     "category": "Outils",
     "letter": "M",
     "package_name": "com.flashlab.store",
-    "version_code": 29,
-    "version": "2.5.1",
+    "version_code": 30,
+    "version": "2.5.2",
     "min_sdk": 28,
     "abi": "universal",
-    "download_url": "https://heithem1.github.io/moonloon/client_29_56b397ffd060.apk",
-    "sha256": "56b397ffd060d668f7e1334264b9aca8e23aaebacb57cbad31e4c71e91667687",
+    "download_url": "https://heithem1.github.io/moonloon/client_30_ed977b2e2e15.apk",
+    "sha256": "ed977b2e2e1565d535250efa57928d118a445fc2c477207bba304e01f827e54d",
     "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-    "size_bytes": 1263394,
+    "size_bytes": 1279771,
     "tested_on_coolray": false
   }
 }
