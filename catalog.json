@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.1",
+  "revision": "moonloon · Flash Connect 1.2.1 · 2026-10-20",
   "apps": [
     {
       "id": "client",
@@ -17,6 +17,24 @@
       "sha256": "56b397ffd060d668f7e1334264b9aca8e23aaebacb57cbad31e4c71e91667687",
       "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
       "size_bytes": 1263394,
+      "tested_on_coolray": false
+    },
+    {
+      "id": "flash-connect",
+      "name": "Flash Connect",
+      "package_name": "com.flashlab.connect",
+      "version": "1.2.1-test",
+      "version_code": 4,
+      "description": "CarPlay et Android Auto dans une seule application, avec interface et réglages unifiés. Par Heithem FlashLab.",
+      "category": "Voiture",
+      "letter": "FC",
+      "min_sdk": 25,
+      "abi": "universal",
+      "download_url": "https://heithem1.github.io/moonloon/Flash_Connect_1.2.1_Android9.apk",
+      "source_url": "https://heithem1.github.io/moonloon/Flash_Connect_1.2.1_Source.zip",
+      "sha256": "94f2f599726e388779b963721b199d0c66bdb6e123c4aec58515eca433212d1e",
+      "signer_sha256": "1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953",
+      "size_bytes": 39656805,
       "tested_on_coolray": false
     },
     {
