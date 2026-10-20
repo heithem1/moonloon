@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.2 · 2026-10-20",
+  "revision": "moonloon · Flash Booster 1.0 · sélection 2.5.3 · 2026-10-20",
   "apps": [
     {
       "id": "client",
       "name": "moonloon",
-      "description": "Icône Connect intégrée. Téléchargements avec reprise et nouvelles tentatives après interruption de connexion.",
+      "description": "Icône Flash Booster intégrée avant installation et hors ligne. Téléchargements avec reprise conservés.",
       "category": "Outils",
       "letter": "M",
       "package_name": "com.flashlab.store",
-      "version_code": 30,
-      "version": "2.5.2",
+      "version_code": 31,
+      "version": "2.5.3",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/client_30_ed977b2e2e15.apk",
-      "sha256": "ed977b2e2e1565d535250efa57928d118a445fc2c477207bba304e01f827e54d",
+      "download_url": "https://heithem1.github.io/moonloon/client_31_d2439b86fb70.apk",
+      "sha256": "d2439b86fb70a45ce45a623218b96cac87630e86d442f7f23d3d309c4c2d1d1e",
       "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-      "size_bytes": 1279771,
+      "size_bytes": 1296231,
       "tested_on_coolray": false
     },
     {
@@ -52,6 +52,23 @@
       "sha256": "d46a2b04685d0180b42b66917a20f6b3be238f618a2dfe41d89944a5ba282425",
       "signer_sha256": "f024228f3aeb88e5bfd4db4ce4f5815833e17d9580cc67b3345b23515946ded4",
       "size_bytes": 58305,
+      "tested_on_coolray": false
+    },
+    {
+      "id": "flash-booster",
+      "name": "Flash Booster",
+      "package_name": "com.flashlab.booster",
+      "version": "1.0",
+      "version_code": 1,
+      "description": "Amplification du volume avec interface noire et dorée FlashLab. Réglages et moteur audio GOODEV conservés. Arrêtez GOODEV avant utilisation pour garder un seul amplificateur actif.",
+      "category": "Musique",
+      "letter": "FB",
+      "min_sdk": 21,
+      "abi": "universal",
+      "download_url": "https://heithem1.github.io/moonloon/booster_1_5f2b61c8a21d.apk",
+      "sha256": "5f2b61c8a21dbe8ed79c154561ea970a6129a1710cf06626ac148e9c704c6cf1",
+      "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
+      "size_bytes": 4959838,
       "tested_on_coolray": false
     },
     {
@@ -148,18 +165,18 @@
   "store_update": {
     "id": "client",
     "name": "moonloon",
-    "description": "Icône Connect intégrée. Téléchargements avec reprise et nouvelles tentatives après interruption de connexion.",
+    "description": "Icône Flash Booster intégrée avant installation et hors ligne. Téléchargements avec reprise conservés.",
     "category": "Outils",
     "letter": "M",
     "package_name": "com.flashlab.store",
-    "version_code": 30,
-    "version": "2.5.2",
+    "version_code": 31,
+    "version": "2.5.3",
     "min_sdk": 28,
     "abi": "universal",
-    "download_url": "https://heithem1.github.io/moonloon/client_30_ed977b2e2e15.apk",
-    "sha256": "ed977b2e2e1565d535250efa57928d118a445fc2c477207bba304e01f827e54d",
+    "download_url": "https://heithem1.github.io/moonloon/client_31_d2439b86fb70.apk",
+    "sha256": "d2439b86fb70a45ce45a623218b96cac87630e86d442f7f23d3d309c4c2d1d1e",
     "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-    "size_bytes": 1279771,
+    "size_bytes": 1296231,
     "tested_on_coolray": false
   }
 }
