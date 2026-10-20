@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · Flash Booster 1.0 · sélection 2.5.3 · 2026-10-20",
+  "revision": "moonloon · sélection 2.5.4 · 2026-10-20",
   "apps": [
     {
       "id": "client",
       "name": "moonloon",
-      "description": "Icône Flash Booster intégrée avant installation et hors ligne. Téléchargements avec reprise conservés.",
+      "description": "Logo du lanceur recentré dans un cadre carré pour conserver ses proportions.",
       "category": "Outils",
       "letter": "M",
       "package_name": "com.flashlab.store",
-      "version_code": 31,
-      "version": "2.5.3",
+      "version_code": 32,
+      "version": "2.5.4",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/client_31_d2439b86fb70.apk",
-      "sha256": "d2439b86fb70a45ce45a623218b96cac87630e86d442f7f23d3d309c4c2d1d1e",
+      "download_url": "https://heithem1.github.io/moonloon/client_32_3220627af530.apk",
+      "sha256": "3220627af5309053881c35ca77d00f8abe01b89b31aba5f89874d2279aaf3bbf",
       "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-      "size_bytes": 1296231,
+      "size_bytes": 1296313,
       "tested_on_coolray": false
     },
     {
@@ -165,18 +165,18 @@
   "store_update": {
     "id": "client",
     "name": "moonloon",
-    "description": "Icône Flash Booster intégrée avant installation et hors ligne. Téléchargements avec reprise conservés.",
+    "description": "Logo du lanceur recentré dans un cadre carré pour conserver ses proportions.",
     "category": "Outils",
     "letter": "M",
     "package_name": "com.flashlab.store",
-    "version_code": 31,
-    "version": "2.5.3",
+    "version_code": 32,
+    "version": "2.5.4",
     "min_sdk": 28,
     "abi": "universal",
-    "download_url": "https://heithem1.github.io/moonloon/client_31_d2439b86fb70.apk",
-    "sha256": "d2439b86fb70a45ce45a623218b96cac87630e86d442f7f23d3d309c4c2d1d1e",
+    "download_url": "https://heithem1.github.io/moonloon/client_32_3220627af530.apk",
+    "sha256": "3220627af5309053881c35ca77d00f8abe01b89b31aba5f89874d2279aaf3bbf",
     "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-    "size_bytes": 1296231,
+    "size_bytes": 1296313,
     "tested_on_coolray": false
   }
 }
