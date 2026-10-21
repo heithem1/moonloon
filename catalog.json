@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.2 · 2026-10-21",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21",
   "apps": [
     {
       "id": "client",
@@ -22,19 +22,19 @@
     {
       "id": "flash-manager",
       "name": "FlashLab Gestionnaire",
-      "description": "Applications actives en arrière-plan détectées uniquement, RAM disponible, bouton Arrêter par application et Tout arrêter. Interface française noire et or. Détection complète et arrêt forcé selon accès système, root ou ADB local autorisé ; sinon détection limitée et nettoyage Android. Compatible avec le widget RAM Coolray.",
+      "description": "Applications actives en arrière-plan détectées, RAM disponible et bouton Arrêter. Correction des actualisations ADB, lecture compacte et reconnexion automatique avec la clé déjà autorisée. Interface française noire et or. Arrêt forcé selon accès système, root ou ADB local autorisé. Compatible avec le widget RAM Coolray.",
       "category": "Outils",
       "letter": "FG",
       "package_name": "com.coolray.tasks",
-      "version_code": 3,
-      "version": "1.2",
+      "version_code": 4,
+      "version": "1.3",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/manager_3_4db2b9f6537d.apk",
-      "source_url": "https://heithem1.github.io/moonloon/manager_1_2_source.zip",
-      "sha256": "4db2b9f6537d866cb98cc1011ecf6e66cfb6ff91e2858baf739cf757fcd96806",
+      "download_url": "https://heithem1.github.io/moonloon/manager_4_1b6d1cc269a8.apk",
+      "source_url": "https://heithem1.github.io/moonloon/manager_1_3_source.zip",
+      "sha256": "1b6d1cc269a89b381755dd10694a487bdb88314fa6311ea3e2d646eedc6872e8",
       "signer_sha256": "e17a6e8357175f78fec8964be85f4b5b60a296d36d5ec22408bdcb7fe2ff64f8",
-      "size_bytes": 82729,
+      "size_bytes": 86825,
       "tested_on_coolray": false
     },
     {
