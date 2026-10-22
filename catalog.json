@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Gear 1.1 · reprise automatique",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports",
   "apps": [
     {
       "id": "client",
@@ -58,18 +58,18 @@
     {
       "id": "gear",
       "name": "Gear · Rapports",
-      "description": "Affichage flottant du rapport de boîte, couleurs, trois tailles et fond transparent. Reconnexion automatique du lecteur, reprise du service et restauration du flottant activé. Prévu pour Coolray IHU624G sous Android 9.",
+      "description": "Affichage flottant du rapport de boîte, couleurs, trois tailles et fond transparent. Icône adaptative à fond sombre pour le lanceur. Prévu pour Coolray IHU624G sous Android 9.",
       "category": "Voiture",
       "letter": "Ge",
       "package_name": "com.flashlab.gear",
-      "version_code": 14,
-      "version": "1.1",
+      "version_code": 13,
+      "version": "1.0",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/gear_14_f2d715216abd.apk",
-      "sha256": "f2d715216abd232c1b34adc2ec39aceecfea603de6f81763c0297695528b38f2",
+      "download_url": "https://heithem1.github.io/moonloon/gear_13_d46a2b04685d.apk",
+      "sha256": "d46a2b04685d0180b42b66917a20f6b3be238f618a2dfe41d89944a5ba282425",
       "signer_sha256": "f024228f3aeb88e5bfd4db4ce4f5815833e17d9580cc67b3345b23515946ded4",
-      "size_bytes": 62401,
+      "size_bytes": 58305,
       "tested_on_coolray": false
     },
     {
@@ -182,16 +182,16 @@
     {
       "id": "dashboard",
       "name": "FlashLab Dashboard",
-      "description": "Tableau de bord et widget véhicule : rapports, vitesse, carburant, températures et panneaux Vitres, Toit, Climatisation, Trajet et Réglages. Installer le module Commandes véhicule 1.3 pour les commandes des ouvrants. Icône du lanceur agrandie, fond noir et bannière paysage.",
+      "description": "Tableau de bord et widget véhicule : rapports, vitesse, carburant, températures et panneaux de commande. Correction de la reprise automatique du lecteur de rapports et priorité aux lectures de boîte. Conserver Commandes véhicule 1.3.",
       "category": "Voiture",
       "letter": "DB",
       "package_name": "com.coolray.dash",
-      "version_code": 50,
-      "version": "2.3.1",
+      "version_code": 52,
+      "version": "2.3.2",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/dashboard_50_40ea4146bd69.apk",
-      "sha256": "40ea4146bd692eaf27ae0e7b93f2d296a3ac58408b0b496f796f521c4d2b8f00",
+      "download_url": "https://heithem1.github.io/moonloon/dashboard_52_c776a2d76262.apk",
+      "sha256": "c776a2d76262aa12b362e7560a4421fab70162ef59de42139e8d466431f548ce",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
       "size_bytes": 7404547,
       "tested_on_coolray": false
