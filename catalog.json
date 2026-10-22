@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Assistance Premium 2.2",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Gear 1.1 · reprise automatique",
   "apps": [
     {
       "id": "client",
@@ -58,18 +58,18 @@
     {
       "id": "gear",
       "name": "Gear · Rapports",
-      "description": "Affichage flottant du rapport de boîte, couleurs, trois tailles et fond transparent. Icône adaptative à fond sombre pour le lanceur. Prévu pour Coolray IHU624G sous Android 9.",
+      "description": "Affichage flottant du rapport de boîte, couleurs, trois tailles et fond transparent. Reconnexion automatique du lecteur, reprise du service et restauration du flottant activé. Prévu pour Coolray IHU624G sous Android 9.",
       "category": "Voiture",
       "letter": "Ge",
       "package_name": "com.flashlab.gear",
-      "version_code": 13,
-      "version": "1.0",
+      "version_code": 14,
+      "version": "1.1",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/gear_13_d46a2b04685d.apk",
-      "sha256": "d46a2b04685d0180b42b66917a20f6b3be238f618a2dfe41d89944a5ba282425",
+      "download_url": "https://heithem1.github.io/moonloon/gear_14_f2d715216abd.apk",
+      "sha256": "f2d715216abd232c1b34adc2ec39aceecfea603de6f81763c0297695528b38f2",
       "signer_sha256": "f024228f3aeb88e5bfd4db4ce4f5815833e17d9580cc67b3345b23515946ded4",
-      "size_bytes": 58305,
+      "size_bytes": 62401,
       "tested_on_coolray": false
     },
     {
@@ -216,18 +216,18 @@
     {
       "id": "flash-assistance",
       "name": "FlashLab Assistance Premium",
-      "description": "Compagnon Coolray : rappels kilométriques 5000/10000/personnalisés pour 18 pièces, assurance et contrôle technique séparés avec notifications quotidiennes dès J−7, trajets, historique et pleins à 47,00 DA/litre. Interface française noir et or, sauvegardes locales.",
+      "description": "Compagnon Coolray noir et or : lectures véhicule, carnet d’entretien avec vraies échéances calendrier/km, trajets, pleins et budget en DA, historique local, sauvegarde et assistance technique. Suivi en arrière-plan sur activation volontaire.",
       "category": "Voiture",
       "letter": "FA",
       "package_name": "com.flashlab.assistance",
-      "version_code": 4,
-      "version": "2.2",
+      "version_code": 2,
+      "version": "2.0",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/assistance_4_dd62a01b2cc7.apk",
-      "sha256": "dd62a01b2cc71ed9d3474edf0e356071aea8023a729eb5d42b65d99a2cd07ca4",
+      "download_url": "https://heithem1.github.io/moonloon/assistance_2_1b8d3c69fb55.apk",
+      "sha256": "1b8d3c69fb553ea4052e775490ad34bce356454cb554a51ad96d7c313c376088",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
-      "size_bytes": 210257,
+      "size_bytes": 202065,
       "tested_on_coolray": false
     },
     {
