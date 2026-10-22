@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0",
   "apps": [
     {
       "id": "client",
@@ -228,6 +228,23 @@
       "sha256": "1b8d3c69fb553ea4052e775490ad34bce356454cb554a51ad96d7c313c376088",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
       "size_bytes": 202065,
+      "tested_on_coolray": false
+    },
+    {
+      "id": "flash-transfert",
+      "name": "FlashLab Transfert",
+      "description": "Transfert local téléphone/PC ↔ tablette par navigateur : QR code, code temporaire, progression, réception complète, téléchargement des sauvegardes et ouverture de l’installateur APK depuis la voiture. Interface française noire et or. Même Wi-Fi ou point d’accès requis.",
+      "category": "Outils",
+      "letter": "FT",
+      "package_name": "com.flashlab.transfert",
+      "version_code": 1,
+      "version": "1.0",
+      "min_sdk": 28,
+      "abi": "universal",
+      "download_url": "https://heithem1.github.io/moonloon/transfert_1_97d48faef778.apk",
+      "sha256": "97d48faef778c60b9faba6733f35ab14d7ed535ea4778f54eeff3c9609de59ab",
+      "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
+      "size_bytes": 357871,
       "tested_on_coolray": false
     }
   ],
