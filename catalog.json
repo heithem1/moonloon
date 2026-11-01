@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2",
   "apps": [
     {
       "id": "client",
@@ -62,14 +62,14 @@
       "category": "Voiture",
       "letter": "Ge",
       "package_name": "com.flashlab.gear",
-      "version_code": 13,
-      "version": "1.0",
+      "version_code": 16,
+      "version": "1.1.2",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/gear_13_d46a2b04685d.apk",
-      "sha256": "d46a2b04685d0180b42b66917a20f6b3be238f618a2dfe41d89944a5ba282425",
+      "download_url": "https://heithem1.github.io/moonloon/gear_16_3e4f56c85c95.apk",
+      "sha256": "3e4f56c85c95bae7b5ffc0d9409ef5982620ee76fef0f1ec95b570f15552b694",
       "signer_sha256": "f024228f3aeb88e5bfd4db4ce4f5815833e17d9580cc67b3345b23515946ded4",
-      "size_bytes": 58305,
+      "size_bytes": 62401,
       "tested_on_coolray": false
     },
     {
@@ -186,12 +186,12 @@
       "category": "Voiture",
       "letter": "DB",
       "package_name": "com.coolray.dash",
-      "version_code": 54,
-      "version": "2.3.4",
+      "version_code": 55,
+      "version": "2.3.5",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/dashboard_54_e6ee27edf632.apk",
-      "sha256": "e6ee27edf632eb3255a55ead9a6f9b1b30e7f3f85adc528e6eec90aeaedff691",
+      "download_url": "https://heithem1.github.io/moonloon/dashboard_55_3fe3c8fb8e92.apk",
+      "sha256": "3fe3c8fb8e92b4ca30617c7e87b68f644b3d18682f1bd7c218a40a615182a254",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
       "size_bytes": 7404547,
       "tested_on_coolray": false
@@ -245,6 +245,23 @@
       "sha256": "97d48faef778c60b9faba6733f35ab14d7ed535ea4778f54eeff3c9609de59ab",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
       "size_bytes": 357871,
+      "tested_on_coolray": false
+    },
+    {
+      "id": "flash-dock",
+      "name": "FlashLab Dock",
+      "description": "Dock Coolray : 16 emplacements de raccourcis et bouton Arrêt clim. via le service de climatisation d’origine. Appui long sur Arrêt clim. pour copier le diagnostic. Compatibilité du nouvel arrêt à valider sur la voiture.",
+      "category": "Voiture",
+      "letter": "FD",
+      "package_name": "com.flyme.auto.systemuiplugin",
+      "version_code": 25060625,
+      "version": "1.2",
+      "min_sdk": 28,
+      "abi": "universal",
+      "download_url": "https://heithem1.github.io/moonloon/dock_25060625_6ef6fc3855e6.apk",
+      "sha256": "6ef6fc3855e6a271b3fe257ad6f3cf050d6d32f864827e930bd112ccdbb8f013",
+      "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
+      "size_bytes": 16443984,
       "tested_on_coolray": false
     }
   ],
