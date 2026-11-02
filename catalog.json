@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2 · Vradio v2.9.4",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2 · Vradio v2.9.4 · Dock 1.6 · arrêt clim. validé 2026-11-02",
   "apps": [
     {
       "id": "client",
@@ -250,19 +250,19 @@
     {
       "id": "flash-dock",
       "name": "FlashLab Dock",
-      "description": "Dock Coolray : 16 emplacements de raccourcis et bouton Arrêt clim. via le service de climatisation d’origine. Appui long sur Arrêt clim. pour copier le diagnostic. Compatibilité du nouvel arrêt à valider sur la voiture.",
+      "description": "Dock Coolray : 16 emplacements de raccourcis et bouton Arrêt clim. via le gestionnaire natif du lanceur. Gestion du type réel POWER et de la zone véhicule. Arrêt confirmé fonctionnel par Heithem sur son véhicule ; appui long pour copier le diagnostic.",
       "category": "Voiture",
       "letter": "FD",
       "package_name": "com.flyme.auto.systemuiplugin",
-      "version_code": 25060625,
-      "version": "1.2",
+      "version_code": 25060629,
+      "version": "1.6",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/dock_25060625_6ef6fc3855e6.apk",
-      "sha256": "6ef6fc3855e6a271b3fe257ad6f3cf050d6d32f864827e930bd112ccdbb8f013",
+      "download_url": "https://heithem1.github.io/moonloon/dock_25060629_6ccb9e7b8700.apk",
+      "sha256": "6ccb9e7b87003f4563b4c39595971f9c6ce42990decd39fe49dd10ff5e22d602",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
-      "size_bytes": 16443984,
-      "tested_on_coolray": false
+      "size_bytes": 16448080,
+      "tested_on_coolray": true
     },
     {
       "id": "vradio",
