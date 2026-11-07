@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2 · Vradio v2.9.4 · Dock 1.6 · arrêt clim. validé 2026-11-02 · Gear 1.2.1 / Dashboard 2.4.1 · Dashboard 2.4.2 · Gear Display 3.7",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2 · Vradio v2.9.4 · Dock 1.6 · arrêt clim. validé 2026-11-02 · Gear 1.2.1 / Dashboard 2.4.1 · Dashboard 2.4.2 · Gear Display 3.7 · Dashboard 2.4.3",
   "apps": [
     {
       "id": "client",
@@ -182,19 +182,19 @@
     {
       "id": "dashboard",
       "name": "FlashLab Dashboard",
-      "description": "Dashboard et widget Coolray : Arrêt envoie la ventilation à zéro, choix de vitesse1à7, température extérieure réelle lue via EMS avec reprise automatique. Garder Commandes véhicule1.3. Mise en veille profonde confirmée sur Coolray lors du test de 13 minutes.",
+      "description": "Dashboard et widget Coolray : compatibilité des lectures lorsque le signal de contact est absent. Lectures arrêtées à l’extinction de l’écran. Sans contact confirmé, diagnostics D1–D7 et température extérieure EMS désactivés. Garder Commandes véhicule 1.3. Version 2.4.3 : validation sur véhicule et test de veille profonde à effectuer.",
       "category": "Voiture",
       "letter": "DB",
       "package_name": "com.coolray.dash",
-      "version_code": 59,
-      "version": "2.4.2",
+      "version_code": 60,
+      "version": "2.4.3",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/dashboard_59_789a261db798.apk",
-      "sha256": "789a261db7986fd1547bd3b86a278f65bd00f1874fa0c81756a4bb5a35bd9258",
+      "download_url": "https://heithem1.github.io/moonloon/dashboard_60_1778631c5880.apk",
+      "sha256": "1778631c58808dda4209e296d785170c0b384661512f30947e9f76d4163f4396",
       "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
       "size_bytes": 7416835,
-      "tested_on_coolray": true
+      "tested_on_coolray": false
     },
     {
       "id": "vehicle-control",
