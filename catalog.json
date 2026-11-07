@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2 · Vradio v2.9.4 · Dock 1.6 · arrêt clim. validé 2026-11-02 · Gear 1.2.1 / Dashboard 2.4.1 · Dashboard 2.4.2",
+  "revision": "moonloon · sélection 2.5.5 · FlashLab Gestionnaire 1.3 · 2026-10-21 · Dashboard 2.3 · Dashboard 2.3.1 · icône · FlashLab Assistance Premium 2.0 · FlashLab Transfert 1.0 · Dashboard 2.3.2 · rapports · Dashboard2.3.3 · Gestionnaire1.4 · Dashboard2.3.4 · ventilation et extérieur · Gear 1.1.2 · Dashboard 2.3.5 · Dock 1.2 · Vradio v2.9.4 · Dock 1.6 · arrêt clim. validé 2026-11-02 · Gear 1.2.1 / Dashboard 2.4.1 · Dashboard 2.4.2 · Gear Display 3.7",
   "apps": [
     {
       "id": "client",
@@ -57,19 +57,19 @@
     },
     {
       "id": "gear",
-      "name": "Gear · Rapports",
-      "description": "Affichage flottant du rapport de boîte, couleurs, trois tailles et fond transparent. Icône adaptative à fond sombre pour le lanceur. Prévu pour Coolray IHU624G sous Android 9.",
+      "name": "Gear Display",
+      "description": "Affichage du rapport de boîte sur la tablette Coolray. Android 9. Nécessite une signature compatible avec le système du véhicule.",
       "category": "Voiture",
       "letter": "Ge",
-      "package_name": "com.flashlab.gear",
-      "version_code": 19,
-      "version": "1.2.1",
+      "package_name": "com.Chouaib.GearDisplay",
+      "version_code": 28,
+      "version": "3.7",
       "min_sdk": 28,
       "abi": "universal",
-      "download_url": "https://heithem1.github.io/moonloon/gear_19_e9db373b7dbb.apk",
-      "sha256": "e9db373b7dbb434729a1579fb470f300a99ec9dfae9a3065bcac6e8752e233ea",
-      "signer_sha256": "f024228f3aeb88e5bfd4db4ce4f5815833e17d9580cc67b3345b23515946ded4",
-      "size_bytes": 78785,
+      "download_url": "https://heithem1.github.io/moonloon/gear_28_522340b809b3.apk",
+      "sha256": "522340b809b34f5ce2aae4e5a4302acc1bf92994e55b5920f59026d4efd80d72",
+      "signer_sha256": "c8a2e9bccf597c2fb6dc66bee293fc13f2fc47ec77bc6b2b0d52c11f51192ab8",
+      "size_bytes": 492625,
       "tested_on_coolray": false
     },
     {
